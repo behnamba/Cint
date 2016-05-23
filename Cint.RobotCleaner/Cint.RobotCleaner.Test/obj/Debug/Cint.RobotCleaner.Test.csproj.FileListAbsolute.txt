@@ -1,0 +1,11 @@
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Test.dll
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Test.pdb
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\nunit.framework.dll
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\nunit.framework.xml
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\obj\Debug\Cint.RobotCleaner.Test.csprojResolveAssemblyReference.cache
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\obj\Debug\Cint.RobotCleaner.Test.dll
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\obj\Debug\Cint.RobotCleaner.Test.pdb
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Domain.dll
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Domain.pdb
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Common.dll
+C:\Users\Z 510\Desktop\KeesingTechnologies\Cint.RobotCleaner\Cint.RobotCleaner.Test\bin\Debug\Cint.RobotCleaner.Common.pdb

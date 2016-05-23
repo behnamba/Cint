@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{7E0FA7FF-049F-4174-BA00-68C108CB902C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{09082C10-647A-495F-8775-C5FFCB2AA55A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D24670D8-0C93-450E-9D36-7531B7D3A9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Domain", "Cint.RobotCleaner.Domain\Cint.RobotCleaner.Domain.csproj", "{D64873FC-6880-4147-A2AB-BCD28BA87DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Test", "Cint.RobotCleaner.Test\Cint.RobotCleaner.Test.csproj", "{6176AE0C-8D91-4545-88AC-FED5F7784F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Console", "Cint.RobotCleaner.Console\Cint.RobotCleaner.Console.csproj", "{A580F7BD-1E24-4D6B-93BE-288678A1DC61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{882A4F7E-44A6-4C8D-B63B-468DF228CACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Common", "Cint.RobotCleaner.Common\Cint.RobotCleaner.Common.csproj", "{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64873FC-6880-4147-A2AB-BCD28BA87DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64873FC-6880-4147-A2AB-BCD28BA87DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64873FC-6880-4147-A2AB-BCD28BA87DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64873FC-6880-4147-A2AB-BCD28BA87DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6176AE0C-8D91-4545-88AC-FED5F7784F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6176AE0C-8D91-4545-88AC-FED5F7784F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6176AE0C-8D91-4545-88AC-FED5F7784F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6176AE0C-8D91-4545-88AC-FED5F7784F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A580F7BD-1E24-4D6B-93BE-288678A1DC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A580F7BD-1E24-4D6B-93BE-288678A1DC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A580F7BD-1E24-4D6B-93BE-288678A1DC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A580F7BD-1E24-4D6B-93BE-288678A1DC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D64873FC-6880-4147-A2AB-BCD28BA87DC5} = {7E0FA7FF-049F-4174-BA00-68C108CB902C}
+		{6176AE0C-8D91-4545-88AC-FED5F7784F6D} = {D24670D8-0C93-450E-9D36-7531B7D3A9AB}
+		{A580F7BD-1E24-4D6B-93BE-288678A1DC61} = {09082C10-647A-495F-8775-C5FFCB2AA55A}
+		{A94D7C08-9F90-4C62-A9DE-A81FAE6BD3F8} = {882A4F7E-44A6-4C8D-B63B-468DF228CACD}
+	EndGlobalSection
+EndGlobal
